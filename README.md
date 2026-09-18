@@ -123,6 +123,3 @@ The repeated Figure 6 caption is preserved as 06a/06b rather than silently renum
 
 The audit records the exact package versions, predictor list, fold well IDs, training sample count and GA weights. It is suitable for inspecting the split before using results.
 
-## GitHub
-
-Upload the project source or initialize your own repository here. `.gitignore` excludes the private manuscript, inspection files, environment, generated outputs and archives. No GitHub repository is created or published automatically. The included GitHub Actions workflow runs the tests and complete pipeline and attaches results as an artifact. The supplied ZIP includes a generated example run for convenience; generated outputs need not be committed.
