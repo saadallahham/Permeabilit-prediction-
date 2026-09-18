@@ -1,0 +1,14 @@
+{
+  "seed": 2026,
+  "train_wells": ["ENC1", "ENC2", "ENC3"],
+  "test_wells": ["ENC4", "ENC5"],
+  "log_samples_per_well": [1335, 1150, 929, 1100, 1000],
+  "lab_samples_per_well": [100, 90, 80, 85, 75],
+  "depth_interval_m": [0, 250],
+  "features": ["GR_API", "RHOB_g_cm3", "NPHI_vv", "DT_us_ft"],
+  "fuzzy_rules": 9,
+  "ann_hidden_layers": [16, 8],
+  "ga_population": 80,
+  "ga_generations": 160,
+  "figure_dpi": 180
+}

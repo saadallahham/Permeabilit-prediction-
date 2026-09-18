@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+manuscript_reference.docx
+reference_inspection/
+outputs/
+spyder_outputs/
+*.zip
